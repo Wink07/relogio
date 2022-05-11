@@ -1,1 +1,1 @@
-# relogio  feito com python
+# relogio  feito com tkinter
